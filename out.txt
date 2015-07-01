@@ -1,0 +1,17 @@
+AndreiaProblem:
+The following file called column1.txt exists.
+The following file called column2.txt exists.
+>>>>valores
+(Column:1 Line:1,20.0,A,Column:1 Line:1)
+(Column:1 Line:2,-10.0,A,Column:1 Line:6)
+(Column:1 Line:3,30.0,A,Column:1 Line:3)
+(Column:1 Line:4,15.0,A,Column:1 Line:5)
+(Column:1 Line:5,-15.0,P,Column:1 Line:4)
+(Column:1 Line:6,10.0,P,Column:1 Line:2)
+(Column:1 Line:1,-20.0,P,Column:1 Line:1)
+(Column:1 Line:2,10.0,F,TODO)
+(Column:1 Line:3,-30.0,P,Column:1 Line:3)
+(Column:1 Line:4,15.0,A,Column:1 Line:5)
+(Column:1 Line:5,-15.0,P,Column:1 Line:4)
+>>>>unmatched
+(Column:1 Line:2,10.0,F,TODO)
