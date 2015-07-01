@@ -15,3 +15,6 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+
+!/target/scala-2.11/AndreiaProblem-assembly-v0.3.jar
